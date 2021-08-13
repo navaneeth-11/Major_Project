@@ -1,6 +1,6 @@
 # majorproject
 
-A new Flutter project Created TIC TAC TOE game using widgets ,B urger menu, login page, firebase auth and razorpay.
+A new Flutter project Created TIC TAC TOE game using widgets ,Burger menu, login page, firebase auth and razorpay.
 
 ## Getting Started
 
